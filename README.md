@@ -26,4 +26,4 @@ You can play with an AI in three modes of difficulty:
 
 **Google Play Store Link:**
 https://play.google.com/store/apps/details?id=com.DreamJoy.Pong  
-*Link not found anymore because, well, google* :cry:
+*Link not working anymore because, well, google* :cry:
